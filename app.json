@@ -1,0 +1,16 @@
+{
+  "name": "slee",
+  "scripts": {
+  },
+  "env": {
+    "WEB_CONCURRENCY": {
+      "required": true
+    }
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
